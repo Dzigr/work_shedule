@@ -1,2 +1,1 @@
-# work_shedule
-Simple work shedule
+# Simple class for scheduling workday
